@@ -22,7 +22,7 @@ If the badge is red or you want to see exactly which test failed:
 ## Local Testing
 You can run the tests on your own computer to check your progress before pushing to GitHub. Open your terminal/command prompt in this folder and run:
 
-python3 -m unittest test_assignment.py
+python3 -m unittest test_lab1.py
 
 * If everything is correct, you will see `OK` at the bottom.
 * If you see `FAILED`, read the error messages to see which part needs fixing.
